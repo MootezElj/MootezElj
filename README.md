@@ -1,4 +1,4 @@
-# <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I%27m%20Mootez;Full-stack%20web%20and%20app%20developer;Experienced%20Back%2FFront%20DEV;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </a>
+# <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I%27m%20Mootez;Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /> </a>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 <span>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
